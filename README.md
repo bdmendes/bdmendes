@@ -1,5 +1,5 @@
 #### About me
 
-- :book: Studying Informatics and Computer Engineering at [FEUP, Porto](http://fe.up.pt)
-- :computer: Interested about software engineering and low level development
+- 👨‍💼 Software Engineer @ [Kevel](https://www.kevel.com/)
+- 📖 [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial) Alumni
 - :game_die: Club [chess player](https://lichess.org/@/brod56)
